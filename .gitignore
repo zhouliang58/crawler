@@ -1,0 +1,8 @@
+logs
+csb-job
+target
+.idea
+*.iml
+/*/target
+/*/logs
+/*/*.iml
